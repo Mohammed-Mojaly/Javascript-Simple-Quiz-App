@@ -1,0 +1,54 @@
+[{
+        "title": "Which of the following is not JavaScript Data Types?",
+        "answer_1": "Undefined",
+        "answer_2": "Number",
+        "answer_3": "Boolean",
+        "answer_4": "Float",
+        "right_answer": "Float"
+
+    },
+    {
+        "title": " Which company developed JavaScript?",
+        "answer_1": "Netscape",
+        "answer_2": "Bell Labs",
+        "answer_3": "Sun Microsystems",
+        "answer_4": "IBM",
+        "right_answer": "Netscape"
+
+    },
+    {
+        "title": "Inside which HTML element do we put the JavaScript?",
+        "answer_1": "<head>",
+        "answer_2": "<script>",
+        "answer_3": "<meta>",
+        "answer_4": "<style>",
+        "right_answer": "<script>"
+
+    },
+    {
+        "title": " Which of the following is correct about features of JavaScript?",
+        "answer_1": "It can not Handling dates and time.",
+        "answer_2": "JavaScript is a object-based scripting language.",
+        "answer_3": "JavaScript is not interpreter based scripting language.",
+        "answer_4": "All of the above",
+        "right_answer": "JavaScript is a object-based scripting language."
+    },
+    {
+        "title": "Which of the following is not Javascript frameworks or libraries?",
+        "answer_1": "Polymer",
+        "answer_2": "Meteor",
+        "answer_3": "Cassandra",
+        "answer_4": "jQuery",
+        "right_answer": "Cassandra"
+    },
+    {
+        "title": "Why so JavaScript and Java have similar name?",
+        "answer_1": "JavaScript is a stripped-down version of Java",
+        "answer_2": "JavaScript's syntax is loosely based on Java's",
+        "answer_3": "They both originated on the island of Java",
+        "answer_4": "None of the above",
+        "right_answer": "JavaScript's syntax is loosely based on Java's"
+    }
+
+
+]

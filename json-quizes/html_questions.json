@@ -1,0 +1,46 @@
+[{
+        "title": "Which of the following element is responsible for making the text italic in HTML?",
+        "answer_1": "<it>",
+        "answer_2": "<italic>",
+        "answer_3": "<i>",
+        "answer_4": "<pre>",
+        "right_answer": "<i>"
+
+    },
+    {
+        "title": " How to create an unordered list (a list with the list items in bullets) in HTML?",
+        "answer_1": "<ul>",
+        "answer_2": "<ol>",
+        "answer_3": "<li>",
+        "answer_4": "<i>",
+        "right_answer": "<ul>"
+
+    },
+    {
+        "title": "Which of the following tag is used to insert a line-break in HTML?",
+        "answer_1": "<br>",
+        "answer_2": "<a>",
+        "answer_3": "<pre>",
+        "answer_4": "<b>",
+        "right_answer": "<br>"
+
+    },
+    {
+        "title": "Which of the following tag is used for inserting the largest heading in HTML?",
+        "answer_1": "<h3>",
+        "answer_2": "<h1>",
+        "answer_3": "<h5>",
+        "answer_4": "<h6>",
+        "right_answer": "<h1>"
+    },
+    {
+        "title": "The correct sequence of HTML tags for starting a webpage is -",
+        "answer_1": "Head, Title, HTML, body",
+        "answer_2": "HTML, Body, Title, Head",
+        "answer_3": "HTML, Head, Title, Body",
+        "answer_4": "HTML, Head, Title, Body",
+        "right_answer": "HTML, Head, Title, Body"
+    }
+
+
+]

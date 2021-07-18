@@ -1,0 +1,38 @@
+[{
+        "title": "The property in CSS used to change the background color of an element is -",
+        "answer_1": "bgcolor",
+        "answer_2": "color",
+        "answer_3": "background-color",
+        "answer_4": "All of the above",
+        "right_answer": "background-color"
+
+    },
+    {
+        "title": "The CSS property used to control the element's font-size is -",
+        "answer_1": "text-style",
+        "answer_2": "text-size",
+        "answer_3": "font-size",
+        "answer_4": "None of the above",
+        "right_answer": "font-size"
+
+    },
+    {
+        "title": "The HTML attribute used to define the inline styles is -",
+        "answer_1": "style",
+        "answer_2": "styles",
+        "answer_3": "class",
+        "answer_4": "None of the above",
+        "right_answer": "style"
+
+    },
+    {
+        "title": "The HTML attribute used to define the internal stylesheet is -",
+        "answer_1": "<link>",
+        "answer_2": "style",
+        "answer_3": "<style>",
+        "answer_4": "<script>",
+        "right_answer": "<style>"
+    }
+
+
+]
